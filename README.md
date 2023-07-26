@@ -3,5 +3,5 @@ Membuat todolist sederhana
 
 fitur
 1.crud,
-2.save change,
-3.show change
+2.lihat kapan todo dibuat,
+3.cetak ke pdf
