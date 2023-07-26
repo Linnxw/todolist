@@ -1,2 +1,2 @@
 # todolist
-testing
+Membuat todolist sederhana
